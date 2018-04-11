@@ -2,7 +2,8 @@
 
 int main{}
 {
-printf("ffffffff/n");
+printf("Open Source SW projuct");
+printf("first GitHub Trannling");
 return 0;
 
 
