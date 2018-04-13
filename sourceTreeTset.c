@@ -2,7 +2,7 @@
 
 int main()
 {
-  printf("Friut OSS code");
-  printf("Scocend OSS code");
+  printf("Friut OSS code\n");
+  printf("Thrid OSS code\n");
   return 0;
 }
